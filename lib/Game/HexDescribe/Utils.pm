@@ -457,7 +457,7 @@ sub parse_map {
 =item pick_description
 
 Pick a description from a given table. In the example above, pick a random
-number between 1 and 3 and then go through the list, addin up counts until you
+number between 1 and 3 and then go through the list, adding up counts until you
 hit that number.
 
 If the result picked is unique, remove it from the list. That is, set it's count
